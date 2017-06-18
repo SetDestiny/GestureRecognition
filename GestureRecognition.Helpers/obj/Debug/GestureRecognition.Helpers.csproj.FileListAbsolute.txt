@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.Helpers\bin\Debug\GestureRecognition.Helpers.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.Helpers\bin\Debug\GestureRecognition.Helpers.pdb
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.Helpers\obj\Debug\GestureRecognition.Helpers.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.Helpers\obj\Debug\GestureRecognition.Helpers.pdb

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.BLL\bin\Release\GestureRecognition.BLL.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.BLL\bin\Release\GestureRecognition.BLL.pdb
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.BLL\obj\Release\GestureRecognition.BLL.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.BLL\obj\Release\GestureRecognition.BLL.pdb

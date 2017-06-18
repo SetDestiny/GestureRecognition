@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\GestureRecognition.DAL.dll.config
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\GestureRecognition.DAL.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\GestureRecognition.DAL.pdb
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\GestureRecognition.Helpers.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\GestureRecognition.Helpers.pdb
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\obj\Debug\GestureRecognition.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\obj\Debug\GestureRecognition.DAL.dll
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition.DAL\obj\Debug\GestureRecognition.DAL.pdb

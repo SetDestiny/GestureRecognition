@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition\bin\Debug\GesturesDB.db
+
+Log Entry : 4:46:15 AM Monday, June 12, 2017
+  :
+  :Try to get connection to 'Data Source=GesturesDB.db; Version=3;' database.
+-------------------------------
+
+Log Entry : 4:46:15 AM Monday, June 12, 2017
+  :
+  :Connected to 'C:\Users\Administrator\Desktop\Projects\Diploma\GestureRecognition\GestureRecognition\bin\Debug\GesturesDB.db' database successfully.
+-------------------------------
